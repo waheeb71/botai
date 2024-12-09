@@ -1,0 +1,50 @@
+{
+  "users": {
+    "5887234832": {
+      "username": "WAT4F",
+      "first_name": "🅲🆈🅱🅴🆁 ͙̤̣͖͊̎͠ ̛̈́̆͑̀͗̓̅͊́͝͝ ͒̈́̎̓̂͐̕͘",
+      "join_date": "2024-12-02T23:58:08.916289",
+      "message_count": 96,
+      "image_count": 27,
+      "last_active": "2024-12-05T13:41:43.180437",
+      "daily_image_count": {
+        "2024-12-05": 2
+      }
+    },
+    "5844713882": {
+      "username": "M984D",
+      "first_name": "⭕⃝ ✘🅢🅨🅑🅔🅡 ☽⭕⃝ ͙̤̣͖͖̥̘̠͊̎͠ ̛̈́̆͑̀͗̓̅͊́͝͝ ͒̈́̎̓̂͐̕͘",
+      "join_date": "2024-12-03T23:38:27.807864",
+      "message_count": 5,
+      "image_count": 0,
+      "daily_image_count": {},
+      "last_active": "2024-12-04T00:26:24.556924"
+    },
+    "5172795449": {
+      "username": "CYN7I",
+      "first_name": "⭕⃝ ✘🅲🆈🅱🅴🆁 ☽⭕⃝",
+      "join_date": "2024-12-04T00:57:53.628212",
+      "message_count": 9,
+      "image_count": 3,
+      "daily_image_count": {
+        "2024-12-04": 3
+      },
+      "last_active": "2024-12-05T13:24:17.168687"
+    }
+  },
+  "banned_users": [],
+  "statistics": {
+    "total_messages": 110,
+    "total_images": 30,
+    "daily_messages": {
+      "2024-12-03": {
+        "messages": 1,
+        "images": 0
+      }
+    }
+  },
+  "premium_users": [
+    "7267925051",
+    "5172795449"
+  ]
+}

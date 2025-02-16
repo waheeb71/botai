@@ -2,7 +2,7 @@
 TELEGRAM_TOKEN = "5967242705:AAHctMo6B6How2_8HHo00xtsuOHQX2K4hG4"
 
 # Google Gemini API Key
-GEMINI_API_KEY = "AIzaSyAd0ZordgUjR_8Yaa5Yulk7Uhcz1qARZoc"
+GEMINI_API_KEY = "API Key"
 # Gemini API endpoint
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
 GEMINI_VISION_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision:generateContent"
